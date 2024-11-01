@@ -1,0 +1,3 @@
+*.zip
+.OTTER_LOG
+*-checkpoint.ipynb
