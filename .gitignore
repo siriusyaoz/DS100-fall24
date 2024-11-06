@@ -1,3 +1,5 @@
 *.zip
 .OTTER_LOG
 *-checkpoint.ipynb
+**/.ipynb_checkpoints/*
+**/__pycache__/**
